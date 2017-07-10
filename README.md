@@ -1,18 +1,20 @@
 # clean-code-javascript
 
+Version originale : https://github.com/ryanmcdermott/clean-code-javascript
+
 ## Table of Contents
   1. [Introduction](#introduction)
   2. [Variables](#variables)
-  3. [Functions](#functions)
-  4. [Objects and Data Structures](#objects-and-data-structures)
+  3. [Fonctions](#functions)
+  4. [Objecs et Structures de données](#objects-and-data-structures)
   5. [Classes](#classes)
   6. [SOLID](#solid)
-  7. [Testing](#testing)
+  7. [Tests](#testing)
   8. [Concurrency](#concurrency)
-  9. [Error Handling](#error-handling)
-  10. [Formatting](#formatting)
-  11. [Comments](#comments)
-  12. [Translation](#translation)
+  9. [Gestion des erreurs](#error-handling)
+  10. [Formattage](#formatting)
+  11. [Commentaires](#comments)
+  12. [Traductions](#translation)
 
 ## Introduction
 ![Humorous image of software quality estimation as a count of how many expletives
