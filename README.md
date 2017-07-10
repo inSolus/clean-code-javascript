@@ -6,7 +6,7 @@ Version originale : https://github.com/ryanmcdermott/clean-code-javascript
   1. [Introduction](#introduction)
   2. [Variables](#variables)
   3. [Fonctions](#functions)
-  4. [Objecs et Structures de données](#objects-and-data-structures)
+  4. [Objets et Structures de données](#objects-and-data-structures)
   5. [Classes](#classes)
   6. [SOLID](#solid)
   7. [Tests](#testing)
@@ -20,15 +20,16 @@ Version originale : https://github.com/ryanmcdermott/clean-code-javascript
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](http://www.osnews.com/images/comics/wtfm.jpg)
 
-Software engineering principles, from Robert C. Martin's book
-[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
-adapted for JavaScript. This is not a style guide. It's a guide to producing
-[readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) software in JavaScript.
+Principes d'ingénierie logicielle du livre [*Coder proprement*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) de Robert C. Martin (alias Uncle Bob) adaptés pour JavaScript.
+Ce document est un guide pour produire du code
+[lisible, réutilisable et refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) en JavaSvript.
 
-Not every principle herein has to be strictly followed, and even fewer will be
-universally agreed upon. These are guidelines and nothing more, but they are
-ones codified over many years of collective experience by the authors of
-*Clean Code*.
+Ces principes n'ont pas pour but d'être strictement appliqués, ni même universellement acceptés.
+Il s'agit de lignes directrices, fruit de l'expérience collective des auteurs du livre *Coder proprement*.
+
+(...)
+{_transalation to be continued_}
+(...)
 
 Our craft of software engineering is just a bit over 50 years old, and we are
 still learning a lot. When software architecture is as old as architecture
